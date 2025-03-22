@@ -5,11 +5,10 @@
     "description": "Project 2 API",
     "version": "1.0.0"
   },
-  "host": "https://cse341project2-7t0s.onrender.com",
+  "host": "cse341project2-7t0s.onrender.com",
   "basePath": "/",
   "schemes": [
-    "https",
-    "http"
+    "https"
   ],
   "paths": {
     "/books": {
